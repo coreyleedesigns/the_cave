@@ -7,7 +7,7 @@ A fun game
 1. Blue
 2.
 3.
-4.
+4. Burgady
 
 ## Maria
 
@@ -15,7 +15,7 @@ A fun game
 1. Red
 2. Yellow
 3.
-4.
+4. Gold
 
 ## Leah
 
