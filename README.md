@@ -7,14 +7,14 @@ A fun game
 1.
 2.
 3.
-4.
+4. Burgady
 
 ## Maria
 
 1.
 2.
 3.
-4.
+4. Gold
 
 ## Leah
 
