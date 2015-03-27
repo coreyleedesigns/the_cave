@@ -11,14 +11,14 @@ A fun game
 
 ## Maria
 
-1.
+1. Yellow
 2.
 3.
 4.
 
 ## Leah
 
-1.
+1. Turqoise
 2.
 3.
 4.
